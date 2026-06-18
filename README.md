@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-lamento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dulce lamento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-lamento/) |
+| **Get License** | [Commercial Licensing for Dulce lamento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-lamento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, you know me tienes tan enviciado
+> En esta ciudad de sombras, quiero estar a tu lado
+> Eres mi dulce lamento cuando cae la madrugada
+> Pierdo la razón entera por el fuego de tu mirada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
