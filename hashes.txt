@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce lamento
+
+This log tracks the cryptographic history and versioning for the song **Dulce lamento** (dulce-lamento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:57:12.181287 | `v1` | `9c0c732286231d13131b49634abcc73ed6b9492de5d3fe3e429d7714b370a94a` | `48fc3efed21974abdd52555d50a6455898872e75df740f3564ad418caa170d8c` | `2026-06-18_dulce-lamento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

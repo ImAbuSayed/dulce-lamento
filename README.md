@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-lamento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dulce lamento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-lamento/) |
+| **Get License** | [Get a Licensing Quote for Dulce lamento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-lamento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9c0c732286231d13131b49634abcc73ed6b9492de5d3fe3e429d7714b370a94a` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
